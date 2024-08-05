@@ -1,6 +1,6 @@
 # Code Modifications
 
-Thhis folder contains a necessary file that needs to be copied over the existing one in Meshtastic (SX1278.cpp) and two optional ones
+This folder contains a necessary file that needs to be copied over the existing one in Meshtastic (SX1278.cpp) and two optional ones
 that provide further performance increases for the SX1276 chip (SX1276.cpp and BuildOptUser.h).
 
 These files should be copied over the existing files in the directory for node before compiling the code.
